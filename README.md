@@ -288,6 +288,11 @@ Caminho no código
 
 ### Executando o Servidor
 
+_Path_ em:
+```
+\jogo-da-velha-rmi-java\src\jogo\rmi\Server.java
+```
+
 - Clique no arquivo do Servidor
 
 ![Clicando na pasta do servidor](./Imagem/clicando_na_pasta_do_servidor.png)
@@ -305,6 +310,11 @@ Caminho no código
 > Lembre-se de executar o servidor antes do cliente, para jogar tem que ter **2** clientes conectados no servidor.
 
 - Clique no arquivo do Cliente
+
+_Path_ em:
+```
+>\jogo-da-velha-rmi-java\src\jogo\rmi\Client.java
+```
 
 ![Clicando na pasta do Cliente](./Imagem/clicando_na_pasta_do_cliente.png)
 
