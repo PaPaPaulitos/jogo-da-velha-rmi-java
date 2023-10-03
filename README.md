@@ -288,7 +288,7 @@ Caminho no código
 
 ### Executando o Servidor
 
-- Clique no arquivo do servidor
+- Clique no arquivo do Servidor
 
 ![Clicando na pasta do servidor](./Imagem/clicando_na_pasta_do_servidor.png)
 
@@ -302,6 +302,19 @@ Caminho no código
 
 ### Executando o Cliente
 
+> Lembre-se de executar o servidor antes do cliente, para jogar tem que ter **2** clientes conectados no servidor.
+
+- Clique no arquivo do Cliente
+
+![Clicando na pasta do Cliente](./Imagem/clicando_na_pasta_do_cliente.png)
+
+- Clique no botão verde do metódo *Main*.
+
+![Executando o Main](./Imagem/clicando_no_botao_verde_do_cliente.png)
+
+- Jogo aberto com Sucesso
+
+![Executando o Cliente](./Imagem/executando_o_cliente.png)
 
 ## Referencias
 
