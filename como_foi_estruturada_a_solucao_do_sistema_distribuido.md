@@ -10,7 +10,7 @@ A linguagem de programação utilizada foi o Java, se utilizando do RMI como mec
 
 **Chamada de Métodos Remoto**: RMI permite que um programa Java em uma JVM chame métodos de objetos localizados em uma JVM remota. Isso é feito de forma transparente, como se o objeto remoto estivesse local.
 
->Assim como em:
+>Assim como quando o Cliente instancia o PainelDoJogo, onde o mesmo vai acionar o ControladorJogoVelha que herda de uma objeto *Remote*
 
 ```java
 	private static void painelJogo() throws Exception {
@@ -80,7 +80,7 @@ java.rmi.server.UnicastRemoteObject
 
 e fornecer um construtor que lança uma exceção *RemoteException*.
 
->Assim como em:
+>Assim como no ControladorJogo que vai chamar/controlar as funções do jogo da velha de forma remota: 
 
 ```java
 public class ControladorJogo extends UnicastRemoteObject implements IControladorJogoVelha 
