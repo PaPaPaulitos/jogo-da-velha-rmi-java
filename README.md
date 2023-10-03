@@ -18,7 +18,7 @@ A jogada só vai ser válida se a posição que o jogador escolher estiver vazia
 
 ## Arquitetura utilizada na implementação.
 
-A imagem a seguir é como o jogo foi iniciado [nesse video mostrando o projeto](), mas a sua arquitetura também permite que também somente jogadores locais joguem ou somente dentro da VLAN, sendo uma arquiterura Cliente-Servidor normal.
+A imagem a seguir é como o jogo foi iniciado [nesse video mostrando o projeto](https://youtu.be/44jSePntDNY), mas a sua arquitetura também permite que também somente jogadores locais joguem ou somente dentro da VLAN, sendo uma arquiterura Cliente-Servidor normal.
 
 ![Topologia do Sistema Distribuido](./Imagem/jogo_da_velha_arquiterura.jpg)
 
@@ -315,6 +315,30 @@ Caminho no código
 - Jogo aberto com Sucesso
 
 ![Executando o Cliente](./Imagem/executando_o_cliente.png)
+
+---
+
+## Prints de tela mostrando o funcionamento do programa.
+
+> Caso queira ver o video da jogo rodando [clique aqui!](https://youtu.be/44jSePntDNY)
+
+- Jogo zerado para os dois
+
+![Jogo zerado pros dois](./Imagem/image1.png)
+
+- Bola vencendo
+
+![Bola vencendo](./Imagem/image2.png)
+
+- Xis vencendo
+
+![Xis vencendo](./Imagem/image3.png)
+
+- Dando velha
+
+![Dando Velha](./Imagem/image4.png)
+
+---
 
 ## Referencias
 
