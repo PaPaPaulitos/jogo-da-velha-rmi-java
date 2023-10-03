@@ -1,5 +1,11 @@
 # Como foi estruturada a solução do sistema distribuído.
 
+## Diagrama de Classes
+
+![Diagrama de Classes do Código](./Imagem/diagrama-jogo-da-velha.jpg)
+
+## Explicação
+
 A linguagem de programação utilizada foi o Java, se utilizando do RMI como mecanismo utilizado para garantiar a transparência na comunicação dentro de um sistema distribuído, os mecanismos do RMI que ajudaram na construção do jogo foram:
 
 **Chamada de Métodos Remoto**: RMI permite que um programa Java em uma JVM chame métodos de objetos localizados em uma JVM remota. Isso é feito de forma transparente, como se o objeto remoto estivesse local.
