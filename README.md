@@ -1,5 +1,7 @@
 # Jogo da Velha RMI em Java
 
+> [Video do jogo rodando em VLAN](https://www.youtube.com/watch?v=44jSePntDNY)
+
 ## Súmario
 
 - [Descrição do Jogo](./descricao_jogo.md)
@@ -8,8 +10,6 @@
 - [Funcionamento do protocolo com explicação das mensagens trocadas.](./funcionamento_do_protocolo_com_explicacao_das_mensagens_trocadas.md)
 - [Explicação de como compilar e executar o programa.](./explicacao_de_como_compilar_e_executar_o_programa.md)
 - [Prints de tela mostrando o funcionamento do programa.]()
-
-
 
 ---
 
