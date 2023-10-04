@@ -9,7 +9,7 @@
 - [Como foi estruturada a solução do sistema distribuído.](./como_foi_estruturada_a_solucao_do_sistema_distribuido.md)
 - [Funcionamento do protocolo com explicação das mensagens trocadas.](./funcionamento_do_protocolo_com_explicacao_das_mensagens_trocadas.md)
 - [Explicação de como compilar e executar o programa.](./explicacao_de_como_compilar_e_executar_o_programa.md)
-- [Prints de tela mostrando o funcionamento do programa.]()
+- [Prints de tela mostrando o funcionamento do programa.](./prints_de_tela_mostrando_o_funcionamento_do_programa.md)
 
 ---
 
