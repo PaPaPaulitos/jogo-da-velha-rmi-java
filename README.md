@@ -1,6 +1,7 @@
 # Jogo da Velha RMI em Java
 
 > [Video do jogo rodando em VLAN](https://www.youtube.com/watch?v=44jSePntDNY)
+> 
 > [Slides usados na apresentação](https://www.canva.com/design/DAFwPjMzgMo/81dkLto5MzdHYt9T49fPvw/edit?utm_content=DAFwPjMzgMo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Súmario
